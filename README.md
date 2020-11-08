@@ -4,5 +4,4 @@ DQLab adalah program belajar data science online untuk membantu kamu dalam mempe
 Terdapat 3 bahasa pemrograman yang disediakan yaitu R, Python, dan SQL.
 
 ### Career Track
-Data Manipulation with Pandas - Part 1
-https://github.com/andriana105/DQLab/blob/main/Data%20Manipulation%20with%20Pandas%20-%20Part%201.ipynb
+[Data Manipulation with Pandas - Part 1](https://github.com/andriana105/DQLab/blob/main/Data%20Manipulation%20with%20Pandas%20-%20Part%201.ipynb)
