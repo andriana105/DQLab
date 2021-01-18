@@ -5,6 +5,7 @@ Terdapat 3 bahasa pemrograman yang disediakan yaitu R, Python, dan SQL.
 
 ### Career Track
 - [Data Manipulation with Pandas - Part 1](https://github.com/andriana105/DQLab/blob/main/Data%20Manipulation%20with%20Pandas%20-%20Part%201.ipynb)
+- [Data Manipulation with Pandas - Part 2](https://github.com/andriana105/DQLab/blob/main/Data%20Manipulation%20with%20Pandas%20-%20Part%202.ipynb)
 - [Data Visualization with Python Matplotlib for Beginner - Part 1](https://github.com/andriana105/DQLab/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201.ipynb)
 
 ### Project
