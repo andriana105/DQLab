@@ -1,7 +1,7 @@
 # DQLab
 
-DQLab adalah program belajar data science online untuk membantu kamu dalam mempersiapkan diri mulai berkarir sebagai Data Scientist, Data Analyst, dan Data Engineer di Industri.
-Terdapat 3 bahasa pemrograman yang disediakan yaitu R, Python, dan SQL.
+DQLab is an online data science learning program that help you prepare yourself to start a career as a Data Scientist, Data Analyst, and Data Engineer in industry.
+There are 3 programming languages provided, namely R, Python, and SQL.
 
 ### Career Track
 - [Data Manipulation with Pandas - Part 1](https://github.com/andriana105/DQLab/blob/main/Data%20Manipulation%20with%20Pandas%20-%20Part%201.ipynb)
